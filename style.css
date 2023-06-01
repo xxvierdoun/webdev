@@ -1,0 +1,12 @@
+.banner {
+    background: url("BG.jpeg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+    text-shadow: -1px -1px 1px black, 1px -1px 1px black, -1px 1px 1px black, 1px 1px 1px black;
+}
+
+.about{
+    text-align: justify;
+}
